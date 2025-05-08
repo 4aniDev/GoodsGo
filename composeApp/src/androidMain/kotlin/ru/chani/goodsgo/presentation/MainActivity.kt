@@ -1,4 +1,4 @@
-package ru.chani.goodsgo
+package ru.chani.goodsgo.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

@@ -1,4 +1,4 @@
-package ru.chani.goodsgo
+package ru.chani.goodsgo.presentation
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image

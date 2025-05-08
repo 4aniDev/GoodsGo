@@ -1,5 +1,7 @@
 package ru.chani.goodsgo
 
+import ru.chani.goodsgo.presentation.Platform
+
 class WasmPlatform: Platform {
     override val name: String = "Web with Kotlin/Wasm"
 }

@@ -1,4 +1,4 @@
-package ru.chani.goodsgo
+package ru.chani.goodsgo.presentation
 
 interface Platform {
     val name: String
